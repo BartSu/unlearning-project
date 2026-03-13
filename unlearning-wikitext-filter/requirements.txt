@@ -1,0 +1,5 @@
+torch>=2.0
+transformers>=4.36
+datasets>=2.14
+numpy
+faiss-cpu>=1.7
